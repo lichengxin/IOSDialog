@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_out.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_in.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\anim\\actionsheet_dialog_in.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view_actionsheet.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\toast_view_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\timepicker.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wheelcity_cities_layout.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\wheelcity_cities_layout.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view_alertdialog.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\toast_view_alertdialog.xml"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wheelcity_country_layout.xml",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\layout\\wheelcity_country_layout.xml"
+    }
+]

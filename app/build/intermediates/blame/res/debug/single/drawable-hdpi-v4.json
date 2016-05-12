@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_single_normal.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_top_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_trans_bg.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_trans_bg.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_bg.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_alert_bg.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_single_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_middle_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_bottom_normal.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_single_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_top_normal.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_bottom_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_middle_normal.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_left_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "D:\\calibre\\IOSDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_right_pressed.9.png",
+        "source": "D:\\calibre\\IOSDialog\\app\\src\\main\\res\\drawable-hdpi\\toast_alert_btn_right_pressed.9.png"
+    }
+]
